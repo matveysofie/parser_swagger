@@ -8,4 +8,10 @@
 ![Python](https://img.shields.io/badge/-Python-ececec?style=for-the-badge&logo=python&logoColor=2c3e50)
 
 ## Start
-- Run `swagger3.py`
+- <samp>Run `swagger3.py`
+
+<hr>
+
+<p align="center">
+<samp> The project is on the stop, the report needs to be finalized and expanded, as well as refactoring. 
+</p>
